@@ -4,14 +4,29 @@ https://lookerstudio.google.com/s/nDRI4bYa49I
 
 Project Description: This project involves analyzing sales prediction for Q2 2023 from a retail company to derive actionable insights and create impactful visualizations using SQL, Python, and Google Looker Studio in this uses data from Order_details order date and qty ordered for sales forcasting next Q2 2023 this data uses this project:
 
-Deriving Key Insights: In This data analysis quarterly sales 2023 based on 2022 Q2 and Q4 trends identifying and improving decision-making.
+Sales Prediction for Q2 2023 
 
-Visualizing Data: Creating interactive dashboards in Google Looker Studio for better understanding and presentation of data.
+This project predicts total sales for Q2 2023 using historical data (Q1 2022 - Q4 2022).  
+It employs *Machine Learning models* to analyze trends and forecast future sales.  
 
-Basic Python Skills: o Knowledge of Python and libraries such as Pandas for data manipulation and Matplotlib/Seaborn for basic visualizations. o Experience in handling data frames and performing data cleaning and transformation tasks.
+Features:
+- Data preprocessing and feature engineering.
+- Model training using *Scikit-learn* and *Statsmodels*.
+- Evaluation using *MAE* and *RMSE*.
+- Forecast visualization with *Matplotlib*.
 
-Google Looker Studio: o Familiarity with Google Looker Studio (formerly Google Data Studio) for creating interactive dashboards and visualizations. o Knowledge of connecting data sources and building dynamic reports.
+ Technologies Used:
+- Python
+- Pandas, NumPy
+- Scikit-learn, Statsmodels
+- Matplotlib, Seaborn
 
-Data Analysis Concepts: o Understanding basic data analysis techniques, such as identifying trends of sales perfomance , and aggregating data to derive insights. o Familiarity total sales calculated for trends total sales, and prediction sales.
+Results:
+- Predicted Sales for Q2 2023: 
+- Model Accuracy: 
 
-Analysis and visualization: 
+Dataset:
+- *order_date* (Date of purchase)
+- *qty_ordered*(Number of items sold)
+
+
