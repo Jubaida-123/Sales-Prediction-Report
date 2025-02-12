@@ -1,6 +1,8 @@
 # Sales-Prediction-Report using google looker 
 Project Title: Sales Prediction quartely with Google Looker Studio Click on the below link to view the dashboard:
+
 https://lookerstudio.google.com/s/nDRI4bYa49I
+https://lookerstudio.google.com/s/rO8vZWnK_Gg
 
 Project Description: This project involves analyzing sales prediction for Q2 2023 from a retail company to derive actionable insights and create impactful visualizations using SQL, Python, and Google Looker Studio in this uses data from Order_details order date and qty ordered for sales forcasting next Q2 2023 this data uses this project:
 
